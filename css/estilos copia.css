@@ -3,7 +3,7 @@ body {
     sans-serif;
   width: 90%;
   margin: 0 auto;
-  background-image: url('/img/1.png');
+  background-image: url('../img/1.png');
   background-attachment: fixed;
 }
 
